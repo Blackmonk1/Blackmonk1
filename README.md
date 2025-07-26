@@ -7,6 +7,8 @@
 - ✉️ Reach me: amanquahjonas5@gmail.com 
 
 ---
+![Visitor Count](https://komarev.com/ghpvc/?username=Blackmonk1&color=green)
+
 
 ## 🔥 What I’m working on
 - Building a school management platform
